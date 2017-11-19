@@ -1,0 +1,4 @@
+MultipleErrors: C:/Users/Administrator/AppData/Local/.jspm/packages/npm/resolve-pathname@2.2.0/index.js:70:1: Unexpected reserved word export
+C:/Users/Administrator/AppData/Local/.jspm/packages/npm/resolve-pathname@2.2.0/index.js:70:8: Semi-colon expected
+C:/Users/Administrator/AppData/Local/.jspm/packages/npm/resolve-pathname@2.2.0/index.js:70:8: Unexpected reserved word default
+C:/Users/Administrator/AppData/Local/.jspm/packages/npm/resolve-pathname@2.2.0/index.js:70:16: Semi-colon expected

@@ -1,0 +1,4 @@
+MultipleErrors: C:/Users/Administrator/AppData/Local/.jspm/packages/npm/value-equal@0.4.0/index.js:38:1: Unexpected reserved word export
+C:/Users/Administrator/AppData/Local/.jspm/packages/npm/value-equal@0.4.0/index.js:38:8: Semi-colon expected
+C:/Users/Administrator/AppData/Local/.jspm/packages/npm/value-equal@0.4.0/index.js:38:8: Unexpected reserved word default
+C:/Users/Administrator/AppData/Local/.jspm/packages/npm/value-equal@0.4.0/index.js:38:16: Semi-colon expected

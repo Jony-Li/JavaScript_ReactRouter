@@ -1,0 +1,38 @@
+{
+  "name": "javascript_reactrouter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "browser-sync": "^2.18.13",
+    "jspm": "^0.16.53"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jony-Li/JavaScript_ReactRouter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jony-Li/JavaScript_ReactRouter/issues"
+  },
+  "homepage": "https://github.com/Jony-Li/JavaScript_ReactRouter#readme",
+  "jspm": {
+    "dependencies": {
+      "css": "github:systemjs/plugin-css@^0.1.36",
+      "react": "npm:react@^16.1.1",
+      "react-dom": "npm:react-dom@^16.1.1",
+      "react-router-dom": "npm:react-router-dom@^4.2.2",
+      "semantic-ui": "github:Semantic-Org/Semantic-UI@^2.2.13"
+    },
+    "devDependencies": {
+      "babel": "npm:babel-core@^5.8.24",
+      "babel-runtime": "npm:babel-runtime@^5.8.24",
+      "core-js": "npm:core-js@^1.1.4"
+    }
+  }
+}
